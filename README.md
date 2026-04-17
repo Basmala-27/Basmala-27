@@ -35,7 +35,7 @@
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'www.linkedin.com/in/basmala-mohamed-9b9a42333'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.linkedin.com/in/basmala-mohamed-9b9a42333'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.figma.com/make/CApCOlQFtXfOtQp8v02NUR/Personal-Portfolio-Design?t=fUEEdl1R2PW7BmiI-1'> <img width = '32px' align= 'center' 
 src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 <a href = 'https://wa.me/qr/OJZNH5YYN4GWA1'> <img width = '32px' align= 'center' 
