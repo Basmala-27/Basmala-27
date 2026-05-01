@@ -46,17 +46,27 @@ src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/ma
 <br>
   <br>
   
-[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Basmala-27&theme=tokyonight)](https://git.io/praveenscience)
+## 📊 GitHub Analytics
 
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Basmala-27&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Basmala-27&theme=tokyonight) |
+### 📈 Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Basmala-27&theme=tokyonight)
+
+---
+
+### 🔥 Streak & Stats
+| 🔥 GitHub Streak | 🏆 Trophy |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Basmala-27&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Basmala-27&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![GitHub Streak](https://streak-stats.demolab.com/?user=Basmala-27&theme=tokyonight) | ![Trophy](https://github-profile-trophy.vercel.app/?username=Basmala-27&theme=tokyonight) |
 
+---
+
+### 📌 Languages & Stats
+| 📊 Top Languages |
+| --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Basmala-27&theme=tokyonight) |
+
+---
+
+### 😂 Fun Corner
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
-
-<br>
-
-
-
 
